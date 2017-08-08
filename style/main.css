@@ -3,6 +3,10 @@ body {
   font-family: Raleway, sans-serif;
 }
 
+#balaozinho {
+  pointer-events: none;
+}
+
 header {
   display: flex;
   padding: 0.25em 0.5em;
